@@ -17,7 +17,7 @@ import {
   // EOIUserControl,
   EOIFormFieldView,
   EOITab,
-} from '@eoi-plus/components';
+} from '../components';
 import { withAllInstall } from '@eoi-plus/utils';
 
 // export default withAllInstall([
